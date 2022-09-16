@@ -1,0 +1,15 @@
+C:\Users\Граф\Desktop\DZz\Practick\lestnica\bin\Debug\net6.0\lestnica.exe
+C:\Users\Граф\Desktop\DZz\Practick\lestnica\bin\Debug\net6.0\lestnica.deps.json
+C:\Users\Граф\Desktop\DZz\Practick\lestnica\bin\Debug\net6.0\lestnica.runtimeconfig.json
+C:\Users\Граф\Desktop\DZz\Practick\lestnica\bin\Debug\net6.0\lestnica.dll
+C:\Users\Граф\Desktop\DZz\Practick\lestnica\bin\Debug\net6.0\lestnica.pdb
+C:\Users\Граф\Desktop\DZz\Practick\lestnica\obj\Debug\net6.0\lestnica.csproj.AssemblyReference.cache
+C:\Users\Граф\Desktop\DZz\Practick\lestnica\obj\Debug\net6.0\lestnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Граф\Desktop\DZz\Practick\lestnica\obj\Debug\net6.0\lestnica.AssemblyInfoInputs.cache
+C:\Users\Граф\Desktop\DZz\Practick\lestnica\obj\Debug\net6.0\lestnica.AssemblyInfo.cs
+C:\Users\Граф\Desktop\DZz\Practick\lestnica\obj\Debug\net6.0\lestnica.csproj.CoreCompileInputs.cache
+C:\Users\Граф\Desktop\DZz\Practick\lestnica\obj\Debug\net6.0\lestnica.dll
+C:\Users\Граф\Desktop\DZz\Practick\lestnica\obj\Debug\net6.0\refint\lestnica.dll
+C:\Users\Граф\Desktop\DZz\Practick\lestnica\obj\Debug\net6.0\lestnica.pdb
+C:\Users\Граф\Desktop\DZz\Practick\lestnica\obj\Debug\net6.0\lestnica.genruntimeconfig.cache
+C:\Users\Граф\Desktop\DZz\Practick\lestnica\obj\Debug\net6.0\ref\lestnica.dll
