@@ -1,0 +1,15 @@
+C:\Users\Граф\Desktop\DZz\Practick\obj\Debug\net6.0\Practick.csproj.AssemblyReference.cache
+C:\Users\Граф\Desktop\DZz\Practick\obj\Debug\net6.0\Practick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Граф\Desktop\DZz\Practick\obj\Debug\net6.0\Practick.AssemblyInfoInputs.cache
+C:\Users\Граф\Desktop\DZz\Practick\obj\Debug\net6.0\Practick.AssemblyInfo.cs
+C:\Users\Граф\Desktop\DZz\Practick\bin\Debug\net6.0\Practick.exe
+C:\Users\Граф\Desktop\DZz\Practick\bin\Debug\net6.0\Practick.deps.json
+C:\Users\Граф\Desktop\DZz\Practick\bin\Debug\net6.0\Practick.runtimeconfig.json
+C:\Users\Граф\Desktop\DZz\Practick\bin\Debug\net6.0\Practick.dll
+C:\Users\Граф\Desktop\DZz\Practick\bin\Debug\net6.0\Practick.pdb
+C:\Users\Граф\Desktop\DZz\Practick\obj\Debug\net6.0\Practick.csproj.CoreCompileInputs.cache
+C:\Users\Граф\Desktop\DZz\Practick\obj\Debug\net6.0\Practick.dll
+C:\Users\Граф\Desktop\DZz\Practick\obj\Debug\net6.0\refint\Practick.dll
+C:\Users\Граф\Desktop\DZz\Practick\obj\Debug\net6.0\Practick.pdb
+C:\Users\Граф\Desktop\DZz\Practick\obj\Debug\net6.0\Practick.genruntimeconfig.cache
+C:\Users\Граф\Desktop\DZz\Practick\obj\Debug\net6.0\ref\Practick.dll

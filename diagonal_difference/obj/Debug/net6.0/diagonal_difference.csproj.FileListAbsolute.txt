@@ -1,0 +1,15 @@
+C:\Users\Граф\Desktop\DZz\Practick\diagonal_difference\bin\Debug\net6.0\diagonal_difference.exe
+C:\Users\Граф\Desktop\DZz\Practick\diagonal_difference\bin\Debug\net6.0\diagonal_difference.deps.json
+C:\Users\Граф\Desktop\DZz\Practick\diagonal_difference\bin\Debug\net6.0\diagonal_difference.runtimeconfig.json
+C:\Users\Граф\Desktop\DZz\Practick\diagonal_difference\bin\Debug\net6.0\diagonal_difference.dll
+C:\Users\Граф\Desktop\DZz\Practick\diagonal_difference\bin\Debug\net6.0\diagonal_difference.pdb
+C:\Users\Граф\Desktop\DZz\Practick\diagonal_difference\obj\Debug\net6.0\diagonal_difference.csproj.AssemblyReference.cache
+C:\Users\Граф\Desktop\DZz\Practick\diagonal_difference\obj\Debug\net6.0\diagonal_difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Граф\Desktop\DZz\Practick\diagonal_difference\obj\Debug\net6.0\diagonal_difference.AssemblyInfoInputs.cache
+C:\Users\Граф\Desktop\DZz\Practick\diagonal_difference\obj\Debug\net6.0\diagonal_difference.AssemblyInfo.cs
+C:\Users\Граф\Desktop\DZz\Practick\diagonal_difference\obj\Debug\net6.0\diagonal_difference.csproj.CoreCompileInputs.cache
+C:\Users\Граф\Desktop\DZz\Practick\diagonal_difference\obj\Debug\net6.0\diagonal_difference.dll
+C:\Users\Граф\Desktop\DZz\Practick\diagonal_difference\obj\Debug\net6.0\refint\diagonal_difference.dll
+C:\Users\Граф\Desktop\DZz\Practick\diagonal_difference\obj\Debug\net6.0\diagonal_difference.pdb
+C:\Users\Граф\Desktop\DZz\Practick\diagonal_difference\obj\Debug\net6.0\diagonal_difference.genruntimeconfig.cache
+C:\Users\Граф\Desktop\DZz\Practick\diagonal_difference\obj\Debug\net6.0\ref\diagonal_difference.dll

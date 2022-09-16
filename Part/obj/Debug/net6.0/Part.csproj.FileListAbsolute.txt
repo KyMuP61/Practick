@@ -1,0 +1,15 @@
+C:\Users\Граф\Desktop\DZz\Practick\Part\obj\Debug\net6.0\Part.csproj.AssemblyReference.cache
+C:\Users\Граф\Desktop\DZz\Practick\Part\obj\Debug\net6.0\Part.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Граф\Desktop\DZz\Practick\Part\obj\Debug\net6.0\Part.AssemblyInfoInputs.cache
+C:\Users\Граф\Desktop\DZz\Practick\Part\obj\Debug\net6.0\Part.AssemblyInfo.cs
+C:\Users\Граф\Desktop\DZz\Practick\Part\obj\Debug\net6.0\Part.csproj.CoreCompileInputs.cache
+C:\Users\Граф\Desktop\DZz\Practick\Part\bin\Debug\net6.0\Part.exe
+C:\Users\Граф\Desktop\DZz\Practick\Part\bin\Debug\net6.0\Part.deps.json
+C:\Users\Граф\Desktop\DZz\Practick\Part\bin\Debug\net6.0\Part.runtimeconfig.json
+C:\Users\Граф\Desktop\DZz\Practick\Part\bin\Debug\net6.0\Part.dll
+C:\Users\Граф\Desktop\DZz\Practick\Part\bin\Debug\net6.0\Part.pdb
+C:\Users\Граф\Desktop\DZz\Practick\Part\obj\Debug\net6.0\Part.dll
+C:\Users\Граф\Desktop\DZz\Practick\Part\obj\Debug\net6.0\refint\Part.dll
+C:\Users\Граф\Desktop\DZz\Practick\Part\obj\Debug\net6.0\Part.pdb
+C:\Users\Граф\Desktop\DZz\Practick\Part\obj\Debug\net6.0\Part.genruntimeconfig.cache
+C:\Users\Граф\Desktop\DZz\Practick\Part\obj\Debug\net6.0\ref\Part.dll
