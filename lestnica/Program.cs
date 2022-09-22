@@ -2,14 +2,16 @@
 Console.WriteLine("Hello, World!");
 
 
-int a = 4;
+int a = 6;
 
 void Stairs (int n)
 {
-    List<string> arr = new List<string> (4) {};
-    foreach (var i in arr)
+    List <string> arr = new List <string> ();
+    int b = n;
+    while (b>0)
     {
         arr.Add(" ");
+        b--;
     }
         while ( n>0 )
     {
@@ -22,6 +24,6 @@ void Stairs (int n)
         Console.WriteLine(string.Empty);
     }
 }
-Stairs(a);
 
+Stairs(a);
 
